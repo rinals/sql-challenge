@@ -77,7 +77,7 @@ The following queries were executed to analyze the employee data. These queries 
 
 - List the employee number, last name, first name, sex, and salary of each employee.
 
-![alt text](./EmployeeSQL/Images/Data_analysis/Query1.png)
+![alt text]()
 
 This query lists the employee number, first name, last name, sex, and salary for each employee by joining the employees and salaries tables.
 
@@ -85,7 +85,7 @@ This query lists the employee number, first name, last name, sex, and salary for
 
 - List the first name, last name, and hire date for the employees who were hired in 1986.
 
-![alt text](./EmployeeSQL/Images/Data_analysis/Query2.png)
+![alt text](https://github.com/rinals/sql-challenge/raw/main/EmployeeSQL/images/Data_analysis/Query1.png)
 
 This query retrieves the first name, last name, and hire date of employees who were hired in 1986.
 
