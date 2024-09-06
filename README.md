@@ -77,7 +77,7 @@ The following queries were executed to analyze the employee data. These queries 
 
 - List the employee number, last name, first name, sex, and salary of each employee.
 
-![alt text](EmployeeSQL/Images/Data_analysis/Query1.png)
+![alt text](./EmployeeSQL/Images/Data_analysis/Query1.png)
 
 This query lists the employee number, first name, last name, sex, and salary for each employee by joining the employees and salaries tables.
 
@@ -85,7 +85,7 @@ This query lists the employee number, first name, last name, sex, and salary for
 
 - List the first name, last name, and hire date for the employees who were hired in 1986.
 
-![alt text](EmployeeSQL/Images/Data_analysis/Query2.png)
+![alt text](./EmployeeSQL/Images/Data_analysis/Query2.png)
 
 This query retrieves the first name, last name, and hire date of employees who were hired in 1986.
 
@@ -93,7 +93,7 @@ This query retrieves the first name, last name, and hire date of employees who w
   
 - List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
-![alt text](EmployeeSQL/Images/Data_analysis/Query3.png)
+![alt text](./EmployeeSQL/Images/Data_analysis/Query3.png)
 
 This query lists the managers of each department along with their department number, department name, employee number, and employee names.
 
@@ -101,7 +101,7 @@ This query lists the managers of each department along with their department num
 
 - List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
-![alt text](EmployeeSQL/Images/Data_analysis/Query4.png)
+![alt text](./EmployeeSQL/Images/Data_analysis/Query4.png)
 
 This query lists the department number, employee number, and employee names for each department.
 
@@ -109,7 +109,7 @@ This query lists the department number, employee number, and employee names for 
 
 - List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
-![alt text](EmployeeSQL/Images/Data_analysis/Query5.png)
+![alt text](./EmployeeSQL/Images/Data_analysis/Query5.png)
 
 This query lists employees whose first name is "Hercules" and last name starts with the letter 'B'.
 
@@ -117,7 +117,7 @@ This query lists employees whose first name is "Hercules" and last name starts w
 
 - List each employee in the Sales department, including their employee number, last name, and first name.
 
-![alt text](EmployeeSQL/Images/Data_analysis/Query6.png)
+![alt text](./EmployeeSQL/Images/Data_analysis/Query6.png)
 
 This query lists employees in the Sales department, including their employee number, name, and department name.
 
@@ -125,7 +125,7 @@ This query lists employees in the Sales department, including their employee num
 
 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-![alt text](EmployeeSQL/Images/Data_analysis/Query7.png)
+![alt text](./EmployeeSQL/Images/Data_analysis/Query7.png)
 
 This query lists employees in both the Sales and Development departments.
 
@@ -133,7 +133,7 @@ This query lists employees in both the Sales and Development departments.
 
 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-![alt text](EmployeeSQL/Images/Data_analysis/Query8.png)
+![alt text](./EmployeeSQL/Images/Data_analysis/Query8.png)
 
 This query retrieves the frequency count of each last name among employees, sorted in descending order.
 
