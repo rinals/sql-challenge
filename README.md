@@ -19,7 +19,7 @@ It is divided into 3 parts: data modeling, data engineering, and data analysis.
 
 In this phase, the database structure is designed using an Entity-Relationship Diagram (ERD). The ERD visualizes how different entities (employees, departments, salaries, titles, dept_emp, dept_manager) relate to one another.
 
-![alt text](image.png)
+![alt text](https://github.com/rinals/sql-challenge/blob/2ca3174bb22f4f0937bac1d72e82516729d48057/EmployeeSQL/images/Data_modeling/employees-sql-erd-diagram.png)
 
 The ERD image above represents the design of an Employee Management Database. It shows how different entities (tables) are related:
 
@@ -38,27 +38,27 @@ In this phase, the database tables are created using the SQL script (employees_t
 
 1. employees: Stores employee information (e.g., name, birth date, hire date).
 
-![alt text](employees_table.png)
+![alt text](https://github.com/rinals/sql-challenge/blob/2ca3174bb22f4f0937bac1d72e82516729d48057/EmployeeSQL/images/Data_engineering/employees_table.png)
 
 2. departments: Holds department details.
 
-![alt text](departments_table.png)
+![alt text](https://github.com/rinals/sql-challenge/blob/2ca3174bb22f4f0937bac1d72e82516729d48057/EmployeeSQL/images/Data_engineering/departments_table.png)
 
 3. titles: Lists job titles for employees.
 
-![alt text](titles_table.png)
+![alt text](https://github.com/rinals/sql-challenge/blob/2ca3174bb22f4f0937bac1d72e82516729d48057/EmployeeSQL/images/Data_engineering/titles_table.png)
 
 4. salaries: Tracks salary history for each employee.
 
-![alt text](salaries_table.png)
+![alt text](https://github.com/rinals/sql-challenge/blob/2ca3174bb22f4f0937bac1d72e82516729d48057/EmployeeSQL/images/Data_engineering/salaries_table.png)
 
 5. dept_emp: Connects employees to departments.
 
-![alt text](dept_emp_table.png)
+![alt text](https://github.com/rinals/sql-challenge/blob/2ca3174bb22f4f0937bac1d72e82516729d48057/EmployeeSQL/images/Data_engineering/dept_emp_table.png)
 
 6. dept_manager: Tracks managers for each department.
 
-![alt text](dept_manager_table.png)
+![alt text](https://github.com/rinals/sql-challenge/blob/2ca3174bb22f4f0937bac1d72e82516729d48057/EmployeeSQL/images/Data_engineering/dept_manager_table.png)
 
 - Relationships
 
